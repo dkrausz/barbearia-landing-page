@@ -1,0 +1,13 @@
+:root {
+  --primary-font-color: #848582;
+  --primary-font-hover: #b1b3ae;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #161617;
+}
+.teste {
+}
