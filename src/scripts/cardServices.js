@@ -118,7 +118,7 @@ export const serviceList = [
     description: "Aplicação de tintura",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
-    price: 0.0,
+    price: 90.0,
   },
   {
     id: 12,
@@ -181,10 +181,10 @@ export const serviceList = [
     img: "./src/Assets/cards/corte.png",
     category: "Barba",
     allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
-    description: "Aplicação de tintura",
+    description: "Corte de barba",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
-    price: 55.0,
+    price: 65.0,
   },
   {
     id: 18,

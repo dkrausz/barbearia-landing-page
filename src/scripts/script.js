@@ -90,5 +90,19 @@ function burgerMenu() {
   });
 }
 
+function closeBurgerMenu() {
+  const ul = document.querySelector(".nav_menu");
+  const listItems = ul.children;
+
+  for (let item of listItems) {
+    item.addEventListener("click", function () {
+      setTimeout(() => {
+        ul.classList.remove("show_menu", "menu_final_position");
+      }, 300);
+    });
+  }
+}
+
 renderServices(serviceList);
 burgerMenu();
+closeBurgerMenu();

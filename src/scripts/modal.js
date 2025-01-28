@@ -10,6 +10,21 @@ export function createServiceModal(service) {
   const spanArrowFoward = document.createElement("span");
   const paragraph = document.createElement("p");
   const strongPrice = document.createElement("strong");
+  const closeButton = document.createElement("button");
+  const whatsButton = document.createElement("button");
+
+  closeButton.innerText = "X";
+  closeButton.classList.add("close_button");
+  closeButton.addEventListener("click", function (event) {
+    modal.close();
+  });
+
+  whatsButton.innerText = "Marque já!";
+  whatsButton.classList.add("whatsButton");
+
+  whatsButton.addEventListener("click", function (event) {
+    window.open("https://api.whatsapp.com/send/?phone=554196969363", "_blank");
+  });
 
   divContainer.classList.add("modal_container");
   divPhotoContainer.classList.add("photo_container");
@@ -44,7 +59,7 @@ export function createServiceModal(service) {
   });
 
   divPhotoContainer.append(spanArrowBack, imgServices, spanArrowFoward);
-  divContainer.append(title, divPhotoContainer, paragraph, strongPrice);
+  divContainer.append(title, closeButton, divPhotoContainer, paragraph, strongPrice, whatsButton);
   modal.appendChild(divContainer);
 
   modal.showModal();
