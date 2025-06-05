@@ -2,9 +2,9 @@ export const serviceList = [
   {
     id: 1,
     title: "Corte de cabelo masculino",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Corte de cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo masculino",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -13,9 +13,9 @@ export const serviceList = [
   {
     id: 2,
     title: "Corte de cabelo e barba",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Corte de cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo e barba",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -24,9 +24,9 @@ export const serviceList = [
   {
     id: 3,
     title: "Pezinho Cabelo",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Corte de cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo masculino",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -35,9 +35,9 @@ export const serviceList = [
   {
     id: 4,
     title: "Corte Cabelo Maquina",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Corte de cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo com maquina",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -46,9 +46,9 @@ export const serviceList = [
   {
     id: 5,
     title: "Corte Infantil",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Corte de cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo infantil",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -57,9 +57,9 @@ export const serviceList = [
   {
     id: 6,
     title: "Aplicação de Tintura",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Corte de cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Aplicação de tintura",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -68,9 +68,9 @@ export const serviceList = [
   {
     id: 7,
     title: "Lavagem",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Lavagem de cabelo",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -79,9 +79,9 @@ export const serviceList = [
   {
     id: 8,
     title: "Progressiva",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo masculino",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -90,9 +90,9 @@ export const serviceList = [
   {
     id: 9,
     title: "Hidratação",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo com maquina",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -101,9 +101,9 @@ export const serviceList = [
   {
     id: 10,
     title: "Relaxamento Capilar",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo infantil",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -112,9 +112,9 @@ export const serviceList = [
   {
     id: 11,
     title: "Luzes",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Aplicação de tintura",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -123,9 +123,9 @@ export const serviceList = [
   {
     id: 12,
     title: "Botox Capilar",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo infantil",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -134,9 +134,9 @@ export const serviceList = [
   {
     id: 13,
     title: "Penteado",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Aplicação de tintura",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -145,9 +145,9 @@ export const serviceList = [
   {
     id: 14,
     title: "Escova e finalização",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Aplicação de tintura",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -156,9 +156,9 @@ export const serviceList = [
   {
     id: 15,
     title: "Coloração tonalização",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Cabelo",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de cabelo infantil",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -167,9 +167,9 @@ export const serviceList = [
   {
     id: 16,
     title: "Barboterapia",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Barba",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Aplicação de tintura",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -178,9 +178,9 @@ export const serviceList = [
   {
     id: 17,
     title: "Barba",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Barba",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Corte de barba",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -189,9 +189,9 @@ export const serviceList = [
   {
     id: 18,
     title: "Depilação Barriga",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Depilação",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Depilação de barriga",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -200,9 +200,9 @@ export const serviceList = [
   {
     id: 19,
     title: "Depilação Peito",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Depilação",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Depilação de peito",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -211,9 +211,9 @@ export const serviceList = [
   {
     id: 20,
     title: "Depilação Nariz",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Depilação",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Depilação de nariz",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -222,9 +222,9 @@ export const serviceList = [
   {
     id: 21,
     title: "Depilação Buço",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Depilação",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Depilação de buço",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -233,9 +233,9 @@ export const serviceList = [
   {
     id: 22,
     title: "Depilação Costas",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Depilação",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Depilação das costas",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -244,9 +244,9 @@ export const serviceList = [
   {
     id: 23,
     title: "Depilação Axila",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Depilação",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Depilação das axilas",
     longDescription:
       " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",
@@ -255,9 +255,9 @@ export const serviceList = [
   {
     id: 24,
     title: "Depilação Orelha",
-    img: "./src/Assets/cards/corte.png",
+    img: "./src/Assets/cards/corte.jpg",
     category: "Depilação",
-    allImages: ["./src/Assets/cards/corte.png", "./src/Assets/cards/logo.jpg", "./src/Assets/cards/foto3.jpg"],
+    allImages: ["./src/Assets/cards/corte.jpg", "./src/Assets/cards/foto2.jpg", "./src/Assets/cards/foto3.jpg"],
     description: "Depilação das orelhas",
     longDescription:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero, expedita quasi magni ex, itaque sint reiciendis laboriosam eaque deleniti eoiste in? Eaque modi impedit itaque dolore aliquid corporis.",

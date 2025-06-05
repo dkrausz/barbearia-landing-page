@@ -9,7 +9,7 @@ section {
 
 header {
   background: #000;
-  height: 8rem;
+  height: 9rem;
   padding: 0 4rem;
   position: sticky;
   top: 0;
@@ -134,6 +134,11 @@ nav > a > img {
   align-items: center;
   justify-content: center;
   box-shadow: 1px 1px 2px #888;
+}
+
+footer > p {
+  margin: 1rem auto;
+  color: var(--primary-font-color);
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {

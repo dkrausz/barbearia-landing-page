@@ -23,7 +23,7 @@ export function createServiceModal(service) {
   whatsButton.classList.add("whatsButton");
 
   whatsButton.addEventListener("click", function (event) {
-    window.open("https://api.whatsapp.com/send/?phone=554196969363", "_blank");
+    window.open("https://api.whatsapp.com/send/?phone=55xxxxxxxxxx", "_blank");
   });
 
   divContainer.classList.add("modal_container");
